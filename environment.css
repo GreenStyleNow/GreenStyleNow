@@ -93,6 +93,7 @@ h {
     animation-name: L;
     animation-duration: 20s;
     animation-iteration-count: infinite;
+    margin-left: 15%;
  }
  .button {
     font: bold 11px Arial;
