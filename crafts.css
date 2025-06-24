@@ -79,6 +79,7 @@ header {
  }
  body {
     background-image: url("polkadot.png");
+    background-repeat: repeat;
     background-attachment: fixed;
  }
 
