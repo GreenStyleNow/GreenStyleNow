@@ -92,6 +92,7 @@ header {
     animation-duration: 20s;
     animation-iteration-count: infinite;
     padding-bottom: 2%;
+    margin-left: 15%;
  }
  .button {
     font: bold 11px Arial;
