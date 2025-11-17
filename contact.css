@@ -82,6 +82,8 @@ h {
  }
  body {
     background-image: url("polkadot.png");
+    background-attatchment: fixed;
+    background-size: cover;
  }
 
  .grid-container {
